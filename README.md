@@ -30,7 +30,7 @@ Tens todos os meus projetos principais fixados (pinned) logo abaixo, mas aqui fi
 
 📫 **Como falar comigo:**
 *   **LinkedIn:** [Rodrigo Matias](https://www.linkedin.com/in/rodrigo-matias13/)
-*   **Email:** [O teu email de contacto aqui]
+*   **Email:** [rodrigoamatias13@exemplo.com](mailto:rodrigo.matias@exemplo.com)
 
 ---
 *Obrigado por passares pelo meu perfil!*
