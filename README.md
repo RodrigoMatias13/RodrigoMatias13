@@ -22,6 +22,9 @@ Tens todos os meus projetos principais fixados (pinned) logo abaixo, mas aqui fi
 
 *   **[ViniSys](https://github.com/RodrigoMatias13/iscte-vinisys-project)**: Plataforma de gestão de uma distribuidora de vinhos, utilizando **PHP**, **MySQL** (com triggers, procedures e views) e uma interface web funcional.
 *   **[IscteFlight](https://github.com/RodrigoMatias13/iscteFlight-sistemas-operativos)**: Sistema de gestão de voos desenvolvido em **C** com foco em concorrência, sinais POSIX, memória partilhada e semáforos.
+*   **[Hiking](https://github.com/RodrigoMatias13/hiking)**: Aplicação estruturada para gestão e planeamento de trilhos, rotas e caminhadas, integrando armazenamento de dados e uma interface de navegação de percursos.
+*   **[Kahoot](https://github.com/RodrigoMatias13/kahoot)**: Réplica interativa do popular jogo de quiz desenvolvida em **Java**, aplicando conceitos de Programação Orientada a Objetos, coleções e lógica concorrente.
+*   **[Konane](https://github.com/RodrigoMatias13/konane)**: Implementação do clássico jogo de tabuleiro havaiano desenvolvida em **Scala**, explorando os paradigmas de programação funcional, recursividade e imutabilidade.
 
 ---
 
