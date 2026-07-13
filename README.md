@@ -20,11 +20,11 @@ Abaixo estão as tecnologias com as quais trabalho, divididas por áreas de dom�
 
 Tens todos os meus projetos principais fixados (pinned) logo abaixo, mas aqui fica um resumo rápido do que tenho desenvolvido:
 
-*   **[ViniSys](https://github.com/RodrigoMatias13/iscte-vinisys-project)**: Plataforma de gestão de uma distribuidora de vinhos, utilizando **PHP**, **MySQL** (com triggers, procedures e views) e uma interface web funcional.
-*   **[IscteFlight](https://github.com/RodrigoMatias13/iscteFlight-sistemas-operativos)**: Sistema de gestão de voos desenvolvido em **C** com foco em concorrência, sinais POSIX, memória partilhada e semáforos.
-*   **[Hiking](https://github.com/RodrigoMatias13/hiking-tracks-platform)**: Aplicação estruturada para gestão e planeamento de trilhos, rotas e caminhadas, integrando armazenamento de dados e uma interface de navegação de percursos.
-*   **[Kahoot](https://github.com/RodrigoMatias13/kahoot-clone-java)**: Réplica interativa do popular jogo de quiz desenvolvida em **Java**, aplicando conceitos de Programação Orientada a Objetos, coleções e lógica concorrente.
-*   **[Konane](https://github.com/RodrigoMatias13/konane-scala-javafx)**: Implementação do clássico jogo de tabuleiro havaiano desenvolvida em **Scala**, explorando os paradigmas de programação funcional, recursividade e imutabilidade.
+*   **[ViniSys](https://github.com/RodrigoMatias23/iscte-vinisys-project)**: Plataforma de gestão de uma distribuidora de vinhos, utilizando **PHP**, **MySQL** (com triggers, procedures e views) e uma interface web funcional.
+*   **[IscteFlight](https://github.com/RodrigoMatias23/iscteFlight-sistemas-operativos)**: Sistema de gestão de voos desenvolvido em **C** com foco em concorrência, sinais POSIX, memória partilhada e semáforos.
+*   **[Hiking](https://github.com/RodrigoMatias23/hiking-tracks-platform)**: Aplicação estruturada para gestão e planeamento de trilhos, rotas e caminhadas, integrando armazenamento de dados e uma interface de navegação de percursos.
+*   **[Kahoot](https://github.com/RodrigoMatias23/kahoot-clone-java)**: Réplica interativa do popular jogo de quiz desenvolvida em **Java**, aplicando conceitos de Programação Orientada a Objetos, coleções e lógica concorrente.
+*   **[Konane](https://github.com/RodrigoMatias23/konane-scala-javafx)**: Implementação do clássico jogo de tabuleiro havaiano desenvolvida em **Scala**, explorando os paradigmas de programação funcional, recursividade e imutabilidade.
 
 ---
 
