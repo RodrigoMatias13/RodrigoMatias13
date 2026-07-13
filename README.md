@@ -20,8 +20,8 @@ Abaixo estão as tecnologias com as quais trabalho, divididas por áreas de dom�
 
 Tens todos os meus projetos principais fixados (pinned) logo abaixo, mas aqui fica um resumo rápido do que tenho desenvolvido:
 
-*   **[IscteFlight](https://github.com/RodrigoMatias13/IscteFlight)**: Sistema de gestão de voos desenvolvido em **C** com foco em concorrência, sinais POSIX, memória partilhada e semáforos.
-*   **[ViniSys](https://github.com/RodrigoMatias13/ViniSys)**: Plataforma de gestão de uma distribuidora de vinhos, utilizando **PHP**, **MySQL** (com triggers, procedures e views) e uma interface web funcional.
+*   **[IscteFlight]([https://github.com/RodrigoMatias13/IscteFlight](https://github.com/RodrigoMatias13/iscteFlight-sistemas-operativos))**: Sistema de gestão de voos desenvolvido em **C** com foco em concorrência, sinais POSIX, memória partilhada e semáforos.
+*   **[ViniSys]([https://github.com/RodrigoMatias13/ViniSys](https://github.com/RodrigoMatias13/iscte-vinisys-project))**: Plataforma de gestão de uma distribuidora de vinhos, utilizando **PHP**, **MySQL** (com triggers, procedures e views) e uma interface web funcional.
 
 ---
 
