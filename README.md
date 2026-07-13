@@ -25,12 +25,6 @@ Tens todos os meus projetos principais fixados (pinned) logo abaixo, mas aqui fi
 
 ---
 
-## 📈 Estatísticas
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoMatias13&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 📫 **Como falar comigo:**
 *   **LinkedIn:** [O teu link do LinkedIn aqui]
 *   **Email:** [O teu email de contacto aqui]
